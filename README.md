@@ -3,6 +3,8 @@
 This README starts with AI evaluation (eval), not with Express. The project is a support-agent example used to show how to measure an LLM application's behavior against known scenarios. Express is only the way a user can call the application; the eval calls the application service directly.
 
 ## 1. What Is an AI Eval?
+<img width="689" height="601" alt="Screenshot from 2026-11-17 20-45-54" src="https://github.com/user-attachments/assets/0eedf455-3206-489a-9718-ed43bc86e599" />
+
 
 An AI eval is a repeatable experiment for answering questions such as:
 
