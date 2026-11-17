@@ -1,0 +1,15 @@
+{
+  "name": "support-agent-express-demo",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "start": "node src/main/server.js",
+    "test": "node --test src/test/*.test.js",
+    "eval": "node --test src/test/SupportAgentEvalTest.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
